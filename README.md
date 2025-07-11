@@ -45,7 +45,7 @@ puppy-friends/
 │ ├── index.css 
 │ └── main.jsx 
 ├── .gitignore
-├── db.json # Database fittizio utilizzato da json-server
+├── db.json
 ├── eslint.config.js 
 ├── index.html 
 ├── package.json 
