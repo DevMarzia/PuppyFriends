@@ -30,27 +30,29 @@ Il progetto Puppy Friends non è un clone ma un prototipo inedito sia lato brand
 
 L'architettura del progetto è organizzata come segue, per separare in modo chiaro le diverse responsabilità dell'applicazione:
 
+```text
 puppy-friends/
 ├── public/
 ├── src/
-│ ├── assets/               
-│ ├── components/           
-│ ├── pages/                
-│ └── Redux/                
-│   ├── auth/ 
-│   ├── puppies/ 
-│   └── store.js 
-│ ├── App.css 
-│ ├── App.jsx 
-│ ├── index.css 
-│ └── main.jsx 
+│   ├── assets/               
+│   ├── components/           
+│   ├── pages/                
+│   └── Redux/                
+│       ├── auth/ 
+│       ├── puppies/ 
+│       └── store.js 
+│   ├── App.css 
+│   ├── App.jsx 
+│   ├── index.css 
+│   └── main.jsx 
 ├── .gitignore
-├── db.json
+├── db.json                   
 ├── eslint.config.js 
 ├── index.html 
 ├── package.json 
 ├── README.md
-└── vite.config.js 
+└── vite.config.js
+```
 
 ---
 
