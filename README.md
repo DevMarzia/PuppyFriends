@@ -86,7 +86,7 @@ puppy-friends/
 - **Invio Email (Notifiche Richiesta Adozione)**: EmailJS
 - **Icone**: React Icons
 - **Mappe Interattive**: Leaflet & React Leaflet
-- **Backend Simluato**: json-server
+- **Backend Simulato**: json-server
 
 ---
 
@@ -96,7 +96,7 @@ Assicurati di avere [Node.js] installato.
 
 ### Installa le Dipendenze
 
-Installa tutte le librerie e i pacchetti necessari:
+Installa tutte le librerie e i pacchetti necessari menzionati in **Tecnologie Utilizzate**:
 
 ```bash
 npm install
