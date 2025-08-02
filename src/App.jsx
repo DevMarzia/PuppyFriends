@@ -15,11 +15,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/cards-puppy" element={<CardsPuppy />} />
-        <Route path="/card-puppy/:id" element={<PuppyDetail />} />
-
-        
+    
         {/* Route protetta per admin */}
         <Route
           path="/admin"
